@@ -259,21 +259,5 @@ https://github.com/nabielyyy/blackbox-testing
 ---
 
 # Author
+Nabiel Tatra
 
-| Name | NIM |
-|---|---|
-| ISI NAMA | ISI NIM |
-
----
-
-# Course Information
-
-| Course | Subject |
-|---|---|
-| Software Testing | Black Box Testing |
-
----
-
-# Notes
-
-This project was created for educational purposes and course assignment submission.
